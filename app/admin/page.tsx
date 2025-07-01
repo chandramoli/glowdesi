@@ -1,5 +1,5 @@
 // pages/admin/index.tsx
-
+'use client'
 import { useEffect } from "react";
 import Head from "next/head";
 
