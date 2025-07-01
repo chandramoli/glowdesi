@@ -1,8 +1,8 @@
 # public/admin/config.yml
 backend:
   name: git-gateway
-  branch: main  # The branch to update
-  repo: github_username/repo_name
+  branch: master  # The branch to update
+  repo: chandramoli/glowdesi
 
 local_backend: true # set to true to allow decap cms to save file locally during development
 
